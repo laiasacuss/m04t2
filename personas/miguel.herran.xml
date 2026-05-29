@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persona> 
+	<nombre>Miguel Herrán</nombre>
+	<nacimiento>1996-04-25</nacimiento>
+	<pais>España</pais>
+	<idiomas>
+		<idioma value="ES" />
+		<idioma value="EN" />
+	</idiomas>
+	<muerte></muerte>
+	<altura value="1.67" />
+	<premios>
+		<premio type="Goya" year="2016">Mejor Actor</premio>
+		<premio type="Carmen" year="2023">Mejor Largometraje</premio>
+	</premios>
+</persona> 
