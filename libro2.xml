@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<libro> 
+	<titulo>Boulevard</titulo> 
+	<autor>
+		<nombre>Flor M. Salvador</nombre>
+	</autor>
+	<editorial>Montena (Penguin Random House)</editorial>
+	<generos>
+		<genero value="Juvenil" />
+	</generos>
+	<saga name="Boulevard">
+		<volumen num="1">Boulevard</volumen>
+		<volumen num="2">Boulevard. Despues de el</volumen>
+		<volumen num="3">Boulevard. Antes de ella</volumen>
+		<volumen num="4">Boulevard. Eterno</volumen> 
+	</saga> 
+	<protagonistas>
+		<protagonista name="Hasley Weigel" />
+		<protagonista name="Luke Howland" />
+	</protagonistas>
+	<origen value="Wattpad" />
+	<descripcion>
+		Luke y Hasley no eran el prototipo de una pareja perfecta. 
+		Sin embargo, ambos le pusieron definción a lo que ellos crearon. 
+		Una historia de dos adolescentes que crean su propio boulevard ante la llovizna que hay en sus corazones. 
+	</descripcion> 
+</libro> 
+
+
+
+
+
+
+
+
